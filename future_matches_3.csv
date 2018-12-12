@@ -1,0 +1,5 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,elo_home,elo_away,elo_prob1
+2018-06-15,Portugal,France,,,-,-,-,FALSE,1500,1500,
+2018-06-16,Spain,Peru,,,-,-,-,TRUE,1500,1500,
+2018-06-17,Brazil,England,,,-,-,-,TRUE,1500,1500,
+2018-06-18,Germany,Colombia,,,-,-,-,TRUE,1500,1500,
